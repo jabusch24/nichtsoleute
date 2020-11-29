@@ -1,0 +1,12 @@
+{
+  "insertPragma": true,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": ["*.json"],
+      "options": {
+        "insertPragma": false
+      }
+    }
+  ]
+}
